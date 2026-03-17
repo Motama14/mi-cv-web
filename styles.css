@@ -1,0 +1,16 @@
+
+body {
+    width: 100%;
+    margin: 0 10px;
+}
+
+span {
+    font-weight: bold;
+}
+
+.tec {
+    width: 50%;
+    text-align: center;
+    background-color: whitesmoke;
+    border: 1px solid rgb(211, 211, 211);
+}
